@@ -19,3 +19,5 @@ Now send `/newbot` and follow the instructions as show.
 You’ll get a Bot Token like this.
 
 Yay! You've created our own Telegram Bot. You can then use this token to integrate our code with the Telegram bot
+
+[Use Telegraf and configure functions for the Bot](../Using_Telegraf/Using_Telegraf.md)
