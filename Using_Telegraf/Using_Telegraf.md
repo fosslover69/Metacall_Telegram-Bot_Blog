@@ -40,6 +40,6 @@ bot.start(ctx => {
 bot.launch();
 ```
 
-This is a code which makes the bot reply with 'Welcome to Tijuana, tequila, sexo & marijuana.' when started with /start command in Telegram
+This is a code which makes the bot reply with _'Welcome to Tijuana, tequila, sexo & marijuana.'_ when started with `/start` command in Telegram
 
 ![](./Metacall_Welcome.png)
